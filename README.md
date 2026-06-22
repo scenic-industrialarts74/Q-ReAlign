@@ -15,7 +15,7 @@
 ---
 *Q-Align-level performance with 50% fewer parameters. Easy to use, easy to train.*
 
-*The 0.8B model requires less than 4 GB of memory.*
+*The 0.8B model requires less than 4 GB of GPU memory and is CPU-runnable.*
 
 ## Results
 
