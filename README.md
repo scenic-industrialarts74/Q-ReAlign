@@ -22,6 +22,9 @@
 We train three sizes — **Mini (0.8B) · Lite (4B) · Pro (9B)** (the mascots above) —
 and compare against the original Q-Align.
 
+All three are trained on the same ONE-ALIGN mix of six public datasets —
+**KonIQ + SPAQ + KADID + AGIQA-20K + AVA + LSVQ** (IQA + IAA + VQA combined).
+
 <h3 align="center">Performance — SRCC across 7 benchmarks</h3>
 
 <div align="center">
